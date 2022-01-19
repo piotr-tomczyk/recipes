@@ -1,0 +1,19 @@
+.back{
+    background-color: wheat;
+}
+h1{
+    font-size: 60px;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+#bulion{
+    background-color: azure;
+}
+#zupa_bataty{
+    background-color: turquoise;
+}
+#gara_masala{
+    background-color: violet;
+}

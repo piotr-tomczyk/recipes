@@ -1,0 +1,34 @@
+.bataty{
+    background-color: orange;
+}
+.bulion{
+    background-color: burlywood;
+}
+
+.garam_masala{
+    background-color: cornflowerblue;
+}
+img{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    background-color:orangered;
+}
+.garam_masala_ul{
+    background-color:yellow;
+}
+
+ol{
+    background-color:aqua;
+}
+h3{
+    text-align: center;
+}
+a{
+    background-color: white;
+}
